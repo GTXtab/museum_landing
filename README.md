@@ -3,6 +3,7 @@
 A sophisticated, responsive landing page designed for a modern museum. This project focuses on high-quality visual storytelling, clean typography, and a seamless user experience across all devices.
 
 Developed by **Nazar**, a 2nd-year University Student specializing in Full-stack development.
+🌐 **Live Demo:** [https://gtxtab.github.io/museum_landing/](https://gtxtab.github.io/museum_landing/)
 
 ## 💎 Features
 
@@ -70,12 +71,5 @@ npm run deploy
 
 ```
 
----
-
-© 2026 Nazar. Built with precision and passion for modern web standards.
-
-```
-
----
 
 
