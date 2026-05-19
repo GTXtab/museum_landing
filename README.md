@@ -34,7 +34,7 @@ The project follows a modular structure within the `src` directory:
 ## 🛠 Installation & Setup
 
 1. **Clone the repository:**
-
+```bash
    git clone [https://github.com/GTXtab/museum_landing.git]
 
 ```
